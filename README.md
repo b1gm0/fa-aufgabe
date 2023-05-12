@@ -1,6 +1,6 @@
 # FA-Aufgabe
 
-Einfaches Registrierungs- und Anmeldeformular mit HTML5 und CSS Framework Milligram.
+Einfaches Registrierungs- und Anmeldeformular mit HTML5 und CSS-Framework Milligram.
 
 ## Aufgabe
 
@@ -10,7 +10,7 @@ Einfaches Registrierungs- und Anmeldeformular mit HTML5 und CSS Framework Millig
 ## Technologien
 
 - HTML5
-- CSS Framework [Milligram](https://github.com/milligram/milligram)
+- CSS-Framework [Milligram](https://github.com/milligram/milligram)
 
 ## Umgebung
 
