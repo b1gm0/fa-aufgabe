@@ -13,4 +13,4 @@ Umgebung:
 - GitHub
 
 Demo:
-- https://b1gm0.github.io/fa-aufgabe/
+- https://b1gm0.github.io/fa-aufgabe/ ("Registrierungsformular" oder "Anmeldeformular" anklicken)
