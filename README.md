@@ -1,16 +1,24 @@
 # FA-Aufgabe
 
-Aufgabe:
+## Aufgabe
+
 - [Registrierungsformular](https://b1gm0.github.io/fa-aufgabe/registrierung.html)
 - [Anmeldeformular](https://b1gm0.github.io/fa-aufgabe/anmeldung.html)
 
-Technologien:
+## Technologien
+
 - HTML5
 - CSS Framework [Milligram](https://github.com/milligram/milligram)
 
-Umgebung:
+## Umgebung
+
 - [VS Code](https://github.com/microsoft/vscode)
 - GitHub
 
-Demo:
+## Demo
+
 - https://b1gm0.github.io/fa-aufgabe/ ("Registrierungsformular" oder "Anmeldeformular" anklicken)
+
+## Lizenz
+
+MIT-Lizenz
